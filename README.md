@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h3 align="center">My Path to here</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Korea_University-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
-[![KU](https://img.shields.io/badge/Korea_University-FF0000?style=flat-square&logo=Accenture&logoColor=white)](github.com/rayhwang3130)
 
 to become a
 
