@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">My Path to here</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/UWCSEA-87CEEB?style=flat-square&logo=Accenture&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Wonchon_Middle_School-8B4513?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/31C_DFLHS-4169E1?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Korea_University-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
 
