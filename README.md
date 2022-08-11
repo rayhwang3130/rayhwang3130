@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 📫 How to reach me: ...
 
 [![Gmail](https://img.shields.io/badge/rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black)](github.com/rayhwang3130)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhwang3130&show_icons=true&theme=radical)
