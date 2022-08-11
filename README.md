@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 
 [![R](https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue)](github.com/rayhwang3130)         [![Python](https://img.shields.io/badge/Python-E0FFFF?style=flat-square&logo=Python&logoColor=red)](github.com/rayhwang3130)          [![SQL](https://img.shields.io/badge/SQL-E6E6FA?style=flat-square&logo=mySQL&logoColor=orange)](github.com/rayhwang3130)
+
+📫 How to reach me: ...
+
+[![Gmail](https://img.shields.io/badge/Gmail-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black)](github.com/rayhwang3130)
