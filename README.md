@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 📫 How to reach me: ...
 
-[![Gmail](https://img.shields.io/badge/Gmail_rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black)](github.com/rayhwang3130)
+[![Gmail](https://img.shields.io/badge/rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black)](github.com/rayhwang3130)
