@@ -23,7 +23,7 @@ I am currently learning at ...
 
 to become a
 
-[![DA](https://img.shields.io/badge/Data_Analyst_and_Data_Scientistv-FA8072?style=flat-square&logo=data.ai&logoColor=white)](github.com/rayhwang3130)
+[![DA](https://img.shields.io/badge/Data_Analyst_or_Data_Scientist-FA8072?style=flat-square&logo=data.ai&logoColor=white)](github.com/rayhwang3130)
 
 I’m currently learning ...
 
