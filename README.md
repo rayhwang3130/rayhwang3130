@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 [![KU](https://img.shields.io/badge/Korea_University-FF0000?style=flat-square&logo=Accenture&logoColor=white)](github.com/rayhwang3130)
 
+to become a
+
+[![DA](https://img.shields.io/badge/Data_Analyst_and_Data_Scientistv-FA8072?style=flat-square&logo=data.ai&logoColor=white)](github.com/rayhwang3130)
+
 🌱 I’m currently learning ...
 
 [![R](https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue)](github.com/rayhwang3130)         [![Python](https://img.shields.io/badge/Python-E0FFFF?style=flat-square&logo=Python&logoColor=red)](github.com/rayhwang3130)          [![SQL](https://img.shields.io/badge/SQL-E6E6FA?style=flat-square&logo=mySQL&logoColor=orange)](github.com/rayhwang3130)
