@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ray_Hwang's%20Code%20Archive&fontSize=60)
 
-<h3 align="center">My Path to here</h3>
+<h3 align="center">My Education</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/UWCSEA-87CEEB?style=flat-square&logo=Accenture&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Wonchon_Middle_School-8B4513?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
@@ -22,17 +22,22 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Korea_University-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
 </p> 
 
-<h3 align="center">My Path to here</h3> I am studying to become a</h3>
+<h3 align="center">I am studying to become a</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Analyst_or_Data_Scientist-FA8072?style=flat-square&logo=data.ai&logoColor=black"/></a?&nbsp
 </p>
 
-I’m currently learning ...
+<h3 align="center">I’m currently learning ...</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue"/></a?&nbsp
+  <img src="https://img.shields.io/badge/Python-E0FFFF?style=flat-square&logo=Python&logoColor=red"/></a?&nbsp
+  <img src="img.shields.io/badge/SQL-E6E6FA?style=flat-square&logo=mySQL&logoColor=orange"/></a?&nbsp
+</p>
 
-[![R](https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue)](github.com/rayhwang3130)         [![Python](https://img.shields.io/badge/Python-E0FFFF?style=flat-square&logo=Python&logoColor=red)](github.com/rayhwang3130)          [![SQL](https://img.shields.io/badge/SQL-E6E6FA?style=flat-square&logo=mySQL&logoColor=orange)](github.com/rayhwang3130)
+<h3 align="center">How to reach me ...</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black"/></a?&nbsp
 
-How to reach me: ...
-
-[![Gmail](https://img.shields.io/badge/rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black)](github.com/rayhwang3130)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhwang3130&show_icons=true&theme=radical)
+<p align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhwang3130&show_icons=true&theme=radical)
+ </p>
