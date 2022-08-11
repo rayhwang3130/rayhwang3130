@@ -24,20 +24,20 @@ Here are some ideas to get you started:
 
 <h3 align="center">I am studying to become a</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Analyst_or_Data_Scientist-FA8072?style=flat-square&logo=data.ai&logoColor=black"/></a?&nbsp
+  <img src="https://img.shields.io/badge/Data_Analyst_or_Data_Scientist-FA8072?style=flat-square&logo=data.ai&logoColor=black"/></a>&nbsp
 </p>
 
 <h3 align="center">I’m currently learning ...</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue"/></a?&nbsp
-  <img src="https://img.shields.io/badge/Python-E0FFFF?style=flat-square&logo=Python&logoColor=red"/></a?&nbsp
-  <img src="img.shields.io/badge/SQL-E6E6FA?style=flat-square&logo=mySQL&logoColor=orange"/></a?&nbsp
+  <img src="https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-E0FFFF?style=flat-square&logo=Python&logoColor=red"/></a>&nbsp
+  <img src="img.shields.io/badge/SQL-E6E6FA?style=flat-square&logo=mySQL&logoColor=orange"/></a>&nbsp
 </p>
 
 <h3 align="center">How to reach me ...</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black"/></a?&nbsp
+  <img src="https://img.shields.io/badge/rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>&nbsp
 
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhwang3130&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhwang3130&show_icons=true&theme=radical"></a>&nbsp
  </p>
