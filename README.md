@@ -43,3 +43,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rayhwang3130&show_icons=true&theme=radical"></a>&nbsp
  </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhwang3130&layout=compact"></a>&nbsp
+ </p>
