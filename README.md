@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/31C_DFLHS-4169E1?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Korea_University-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
 
-to become a
-
-[![DA](https://img.shields.io/badge/Data_Analyst_or_Data_Scientist-FA8072?style=flat-square&logo=data.ai&logoColor=black)](github.com/rayhwang3130)
+<h3 align="center">My Path to here</h3> I am studying to become a</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analyst_or_Data_Scientist-FA8072?style=flat-square&logo=data.ai&logoColor=black"/></a?&nbsp
 
 I’m currently learning ...
 
