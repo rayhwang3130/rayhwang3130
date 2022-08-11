@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ray_Hwang%20Archive&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ray_Hwang's%20Code%20Archive&fontSize=60)
