@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ...
+🔭 I am currently working on ...
 [![R](https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue)](github.com/rayhwang3130/TODO-List)
 [![Python](https://img.shields.io/badge/Python-E0FFFF?style=flat-square&logo=Python&logoColor=red)](github.com/rayhwang3130/TODO-List)
 [![SQL](https://img.shields.io/badge/SQL-E6E6FA?style=flat-square&logo=mySQL&logoColor=orange)](github.com/rayhwang3130/TODO-List)
