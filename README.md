@@ -27,11 +27,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Data_Analyst_or_Data_Scientist-FA8072?style=flat-square&logo=data.ai&logoColor=black"/></a>&nbsp
 </p>
 
-<h3 align="center">I’m currently learning ...</h3>
+<h3 align="center">I’m currently expertising myself in...</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-E0FFFF?style=flat-square&logo=Python&logoColor=red"/></a>&nbsp
-  <img src="img.shields.io/badge/SQL-E6E6FA?style=flat-square&logo=mySQL&logoColor=orange"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Microsoft_Excel-2E8B57?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SQL-E6E6FA?style=flat-square&logo=mySQL&logoColor=orange"/></a>&nbsp
 </p>
 
 <h3 align="center">How to reach me ...</h3>
