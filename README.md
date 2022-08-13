@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/UWCSEA-87CEEB?style=flat-square&logo=Accenture&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Wonchon_Middle_School-8B4513?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/31C_DFLHS-4169E1?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ROKMC-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Korea_University,_Majoring_in_Statistics-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
 </p> 
 
