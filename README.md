@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Woo%20Hyun%20(Ray)%20Hwang's%20Code%20Archive&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Woo%20Hyun%20(Ray)%20Hwang's%20Code%20Archive&fontSize=40)
 
 <h3 align="center">My Path to here</h3>
 <p align="center">
