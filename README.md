@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ray_Hwang's%20Code%20Archive&fontSize=60)
 
-<h3 align="center">My Education</h3>
+<h3 align="center">My Path to here</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/UWCSEA-87CEEB?style=flat-square&logo=Accenture&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Wonchon_Middle_School-8B4513?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
