@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Woo%20Hyun%20(Ray)%20Hwang's%20Code%20Archive&fontSize=40)
 
-<h3 align="center">My Path to here</h3>
+<h3 align="center">Education & Career</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/UWCSEA-87CEEB?style=flat-square&logo=Accenture&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Wonchon_Middle_School-8B4513?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
@@ -23,12 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Korea_University,_Majoring_in_Statistics-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
 </p> 
 
-<h3 align="center">I am studying to become a</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Analyst_or_Data_Scientist-FA8072?style=flat-square&logo=data.ai&logoColor=black"/></a>&nbsp
-</p>
-
-<h3 align="center">I’m currently expertising myself in...</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-E0FFFF?style=flat-square&logo=Python&logoColor=red"/></a>&nbsp
