@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-E0FFFF?style=flat-square&logo=Python&logoColor=red"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue"/></a>&nbsp
   <img src="https://img.shields.io/badge/Microsoft_Excel-2E8B57?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SQL-E6E6FA?style=flat-square&logo=mySQL&logoColor=orange"/></a>&nbsp
 </p>
