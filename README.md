@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 <h3 align="center">How to reach me ...</h3>
 <p align="center">
   <a href="mailto:rayhwang3130@gmail.com"><img src="https://img.shields.io/badge/rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>&nbsp
+  <a href="mailto:woohyun.hwang@kearney.com"><img src="https://img.shields.io/badge/rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>&nbsp
