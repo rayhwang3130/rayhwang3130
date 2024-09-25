@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/31C_DFLHS-4169E1?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ROKMC-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Korea_University,_Majoring_in_Statistics-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Intern (RA),_Kearney_Korea-000000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Business_Analyst, Kearney_Korea-000000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
 
 </p> 
 
