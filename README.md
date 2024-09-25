@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/31C_DFLHS-4169E1?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ROKMC-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Korea_University,_BS_Statistics-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Business_Analyst_Kearney_Korea-000000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Business_Analyst,_Kearney_Korea-000000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
 
 </p> 
 
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 <h3 align="center">How to reach me ...</h3>
 <p align="center">
-  <a href="mailto:rayhwang3130@gmail.com"><img src="https://img.shields.io/badge/Private_Mail_rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>&nbsp
-  <a href="mailto:woohyun.hwang@kearney.com"><img src="https://img.shields.io/badge/Business_Mail_woohyun.hwang@kearney.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>&nbsp
+  <a href="mailto:rayhwang3130@gmail.com"><img src="https://img.shields.io/badge/Private_Mail:_rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>&nbsp
+  <a href="mailto:woohyun.hwang@kearney.com"><img src="https://img.shields.io/badge/Business_Mail:_woohyun.hwang@kearney.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>&nbsp
