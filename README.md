@@ -1,39 +1,93 @@
-<!--
-**rayhwang3130/rayhwang3130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:303030&height=300&section=header&text=Woo%20Hyun%20(Ray)%20Hwang&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>🚀 Strategic Consultant & AI Developer</h3>
+  <p>
+    I bridge the gap between <b>Business Strategy</b> and <b>AI Engineering</b>.
+    <br/>
+    Currently acting as a catalyst for impact by designing and implementing actual <b>AI Proofs of Concept (PoC)</b>.
+  </p>
+  <p>
+     <i>"I focus on designing End-to-End Agent AI Architectures that solve real-world business problems."</i>
+  </p>
+</div>
 
-- 🔭 I am currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Woo%20Hyun%20(Ray)%20Hwang&fontSize=40)
+---
 
-<h3 align="center">Education & Career</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/UWCSEA-87CEEB?style=flat-square&logo=Accenture&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Wonchon_Middle_School-8B4513?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/31C_DFLHS-4169E1?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ROKMC-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Korea_University,_BS_Statistics-FF0000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Business_Analyst,_Kearney_Korea-000000?style=flat-square&logo=Accenture&logoColor=white"/></a>&nbsp
+<div align="center">
+  <h3>⚡ Core Focus Areas</h3>
+  <table>
+    <tr>
+      <td align="center"><b>🤖 Generative AI & LLMs</b></td>
+      <td align="center"><b>☁️ Cloud Architecture</b></td>
+      <td align="center"><b>💼 Business Analytics</b></td>
+    </tr>
+    <tr>
+      <td align="center">Building autonomous agents, RAG pipelines, and fine-tuning models.</td>
+      <td align="center">Serverless deployment and scalable backend engineering on GCP.</td>
+      <td align="center">Translating data into actionable strategic insights.</td>
+    </tr>
+  </table>
+</div>
 
-</p> 
+<br/>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-E0FFFF?style=flat-square&logo=Python&logoColor=red"/></a>&nbsp
-  <img src="https://img.shields.io/badge/R_Studio-ADD8E6?style=flat-square&logo=R&logoColor=blue"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Microsoft_Excel-2E8B57?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SQL-E6E6FA?style=flat-square&logo=mySQL&logoColor=orange"/></a>&nbsp
-</p>
+<div align="center">
+  <h3>🛠 Technical Stack</h3>
 
-<h3 align="center">How to reach me ...</h3>
-<p align="center">
-  <a href="mailto:rayhwang3130@gmail.com"><img src="https://img.shields.io/badge/Private_Mail:_rayhwang3130@gmail.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>&nbsp
-  <a href="mailto:woohyun.hwang@kearney.com"><img src="https://img.shields.io/badge/Business_Mail:_woohyun.hwang@kearney.com-F5FFFA?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <br/>
+
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <br/>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🎓 Education & Career</h3>
+  
+  <p><b>Current Role</b></p>
+  <a href="https://www.kearney.com/">
+    <img src="https://img.shields.io/badge/Business_Analyst-Kearney_Korea-420022?style=flat-square&logo=kearney&logoColor=white"/>
+  </a>
+
+  <p><b>Education</b></p>
+  <img src="https://img.shields.io/badge/Korea_University-BS_Statistics-800000?style=flat-square&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UWCSEA-Alumni-87CEEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/31C_DFLHS-Alumni-4169E1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wonchon_Middle_School-Alumni-8B4513?style=flat-square"/>
+
+  <p><b>Military Service</b></p>
+  <img src="https://img.shields.io/badge/ROKMC-Marine_Corps-FF0000?style=flat-square&logo=republic-of-gamers&logoColor=white"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📫 How to reach me</h3>
+  <a href="mailto:woohyun.hwang@kearney.com">
+    <img src="https://img.shields.io/badge/Business-woohyun.hwang@kearney.com-black?style=flat-square&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <br/>
+  <a href="mailto:rayhwang3130@gmail.com">
+    <img src="https://img.shields.io/badge/Personal-rayhwang3130@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhwang3130&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhwang3130&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
+</div>
