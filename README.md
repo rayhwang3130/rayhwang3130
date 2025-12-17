@@ -13,6 +13,18 @@
 
 <br/>
 
+<div align="center">
+  <h3>🎓 Education & Career</h3>
+  <a href="https://www.kearney.com/">
+    <img src="https://img.shields.io/badge/Kearney_Korea-Business_Analyst-420022?style=flat-square&logo=kearney&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Korea_University-BS_Statistics-800000?style=flat-square&logo=google-scholar&logoColor=white"/>
+</div>
+
+<br/>
+
+<br/>
+
 ### 💻 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 
@@ -61,16 +73,6 @@ Created a React frontend fed by a Python backend that uses LLMs to automatically
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rayhwang3130&show_icons=true&theme=transparent&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhwang3130&theme=transparent&hide_border=true" height="150" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🎓 Education & Career</h3>
-  <a href="https://www.kearney.com/">
-    <img src="https://img.shields.io/badge/Kearney_Korea-Business_Analyst-420022?style=flat-square&logo=kearney&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Korea_University-BS_Statistics-800000?style=flat-square&logo=google-scholar&logoColor=white"/>
 </div>
 
 <br/>
