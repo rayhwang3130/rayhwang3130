@@ -16,7 +16,7 @@
 <div align="center">
   <h3>🎓 Education & Career</h3>
   <a href="https://www.kearney.com/">
-    <img src="https://img.shields.io/badge/Kearney_Korea-Business_Analyst-420022?style=flat-square&logo=kearney&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kearney_Korea-Senior_Business_Analyst-420022?style=flat-square&logo=kearney&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Korea_University-BS_Statistics-800000?style=flat-square&logo=google-scholar&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROKMC-Staff_Sergeant-FF0000?style=flat-square&logo=target&logoColor=white"/>
